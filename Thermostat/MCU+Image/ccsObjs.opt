@@ -1,0 +1,1 @@
+"./gpiointerrupt.obj" "./syscfg/ti_drivers_config.obj" "./main_tirtos.obj" "../cc32xxs_tirtos.cmd" -lti_utils_build_linker.cmd.genlibs -l"C:/Users/black/workspace_v10/tirtos_builds_cc32xx_release_ccs_5_20_00_06/Debug/configPkg/linker.cmd" -l"ti/devices/cc32xx/driverlib/ccs/Release/driverlib.a" -llibc.a 
